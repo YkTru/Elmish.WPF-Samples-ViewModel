@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel.WPF", "ViewModel.WPF\ViewModel.WPF.csproj", "{ADAF49CF-976B-48F7-861F-A4B65588984E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ViewModel.Core", "ViewModel.Core\ViewModel.Core.fsproj", "{EEE4839D-9B19-4B3D-AE35-3078EB7B22DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAF49CF-976B-48F7-861F-A4B65588984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF49CF-976B-48F7-861F-A4B65588984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF49CF-976B-48F7-861F-A4B65588984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF49CF-976B-48F7-861F-A4B65588984E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE4839D-9B19-4B3D-AE35-3078EB7B22DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE4839D-9B19-4B3D-AE35-3078EB7B22DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE4839D-9B19-4B3D-AE35-3078EB7B22DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE4839D-9B19-4B3D-AE35-3078EB7B22DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5B3B6C-D622-4E9C-85A1-85467F0A4E28}
+	EndGlobalSection
+EndGlobal
